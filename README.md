@@ -136,4 +136,4 @@ After Expiration: No Cookie
 
 ## Teammates:
 
- 🐒   [dbredykh](https://github.com/BredyByte/)   &   🦍   [pvilchez](https://github.com/pablovilchez)
+ 🐧   [gkrusta](https://github.com/gkrusta/)   &   🐒   [dbredykh](https://github.com/BredyByte/)   &   🦍   [pvilchez](https://github.com/pablovilchez)
